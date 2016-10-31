@@ -13,9 +13,17 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m
 http://zv.3gv.ifeng.com/live/zixun.m3u8
 #EXTINF:-1,凤凰中文
 http://zv.3gv.ifeng.com/live/zhongwen.m3u8
+#EXTINF:-1,凤凰香港
+http://zv.3gv.ifeng.com/live/hongkong.m3u8
 #EXTINF:-1,凤凰中文HD
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
 #EXTINF:-1,凤凰资讯HD
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhzixun/.m3u8
 #EXTINF:-1,TVB8
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
+#EXTINF:-1,J5翡翠台
+http://202.126.55.8/session/4ff02898-9f45-11e6-992b-005056b15a5f/7wza4f/mytvlive/smil:mobilehd_hdj.smil/playlist.m3u8?token=decf025e34902a6848fa2a0f40b676cc_1477989472_1477989472
+#EXTINF:-1,翡翠台
+http://202.126.55.8/session/2dcc3a90-9f45-11e6-bc75-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_jade.smil/playlist.m3u8?token=ffa0efc1bded7aed8e421e8f1c2ff8a5_1477989415_1477989415
+#EXTINF:-1,阳光卫视
+rtmp://www.isuntv.com/live/ts.stream
